@@ -1,0 +1,31 @@
+== 声明 ==
+所有资料均来自网络，不代表个人观点，侵权必删 
+
+== 前言 ==
+8月11日，江大留校学生突然爆出学校正在改造宿舍的消息，改造涉及到'''桃园，李园'''两个园区，合计'''5000人'''，但学校却未提前通知，直接进入学生宿舍进行改造工作，此事引起江大学生强烈不满，认为学校侵犯了学生的'''隐私权'''和'''财产安全'''，但学校却迟迟不肯对学生的质疑做出正面回应，反而是通过'''“卡毕业”，“找同学谈话”等方式'''冷处理。
+
+如果你想进一步了解事情的'''详细经过'''，可以通过如下链接：
+*[https://github.com/Tao-Li-Brothers/jiangnan-university_Tao_Li/blob/master/%E4%BA%8B%E4%BB%B6%E7%BB%8F%E8%BF%87 简要]
+*[https://www.zhihu.com/question/413577697 知乎]
+*[https://s.weibo.com/weibo/%25E6%25B1%259F%25E5%258D%2597%25E5%25A4%25A7%25E5%25AD%25A6?topnav=1&wvr=6&b=1 微博]
+*[https://www.bilibili.com/video/BV1854y1i7nA?from=search&seid=11711711833237032196 b站]
+*[https://mp.weixin.qq.com/s?srcid=0814hgpA37Vn1Ua3nBfQWxDp&scene=23&sharer_sharetime=1597407453907&mid=2247484033&sharer_shareid=51a235b37bc09dd904c2741c2410b0c6&sn=6281f489cb0eb6665774ba51bb6b036a&idx=1&__biz=Mzg2MTExOTYzMQ%3D%3D&chksm=ce1ab761f96d3e77e088ac350b6dce6deb49bbda46a8a7fa813d7413ff33e6259161fbe96c08&mpshare=1#rd； 留校生——备忘录]
+*[https://iflow.uc.cn/webview/news?app=huawei-iflow&aid=1979717493863863342&cid=100&zzd_from=huawei-iflow&uc_param_str=dndsfrvesvntnwpfgibicp&recoid=2845097058078468136&rd_type=reco&sp_gz=1&enuid=AAOrSyUmp%2BXC0xzevSFP6I2OeGd6GlL0yFczSBGe7fPDGw%3D%3D&from=singlemessage 相关报道]
+
+== 学生看法 ==
+[https://github.com/Tao-Li-Brothers/jiangnan-university_Tao_Li/blob/master/%E6%80%BB%E7%BB%93%E4%B9%A6_8_15.pdf 点击这里]
+
+== 江南大学官方发布 ==
+[https://weibo.com/vjiangnan 江南大学官方微博]
+
+== 举报渠道 ==
+*[http://www.moe.gov.cn/tsjb/client/login.jsp?type=special 教育部]
+*[https://link.zhihu.com/?target=https%3A//tousu.www.gov.cn/dc/index.htm 国务院]
+
+== 其他资源 ==
+=== 桃园、李园园服 ===
+[https://github.com/Tao-Li-Brothers/jiangnan-university_Tao_Li/blob/master/%E6%A1%83%E5%9B%AD%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4.pdf 桃园、李园皮肤限定]
+
+=== 会议资料及一些被公关处理的视频 ===
+已在[https://github.com/Tao-Li-Brothers/jiangnan-university_Tao_Li/releases releases]里发布，包括各学院开会录音
+
